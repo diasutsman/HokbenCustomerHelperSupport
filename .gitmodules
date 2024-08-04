@@ -1,0 +1,9 @@
+[submodule "ClientKiosk"]
+	path = ClientKiosk
+	url = https://github.com/diasutsman/HokbenClientKiosk
+[submodule "CrewDevice"]
+	path = CrewDevice
+	url = https://github.com/diasutsman/HokbenCrewDevice
+[submodule "SignalingServer"]
+	path = SignalingServer
+	url = https://github.com/diasutsman/SignalingServerHokben
